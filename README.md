@@ -15,9 +15,12 @@ This repository contains a `.bat` file. When configured properly, it will launch
 
 ---
 
-## OBS Startup commands.
+## OBS Startup Parameters.
 
 - `--startreplaybuffer` launches "OBS" with the Replay Buffer enabled, this is good for recording gameplay.
+
+  A list of Startup Parameters can be found here:
+  https://obsproject.com/kb/launch-parameters
 
 ---
 
